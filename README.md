@@ -14,7 +14,7 @@ Aqui estão alguns dos tipos de projetos que estou trabalhando atualmente:
 
 ### Projetos de Exemplo
 
-#### Projeto 1: ProdutosApp
+#### [Projeto 1: ProdutosApp](https://github.com/VictorIgorDev/ProdutosApp)
 
 O Projeto 1 é uma API desenvolvida em C# com o framework .NET, que oferece endpoints para o cadastro de produtos e empresas. Veja como cada tecnologia mencionada contribui para a robustez e eficiência desta solução:
 
@@ -27,7 +27,7 @@ O Projeto 1 é uma API desenvolvida em C# com o framework .NET, que oferece endp
 - **DDD (Domain-Driven Design)**: Metodologia de design de software.
 - **TDD (Test-Driven Development)**: Metodologia de desenvolvimento de software.
 
-#### Projeto 2: ClientRegistrationSystem
+#### [Projeto 2: ClientRegistrationSystem](https://github.com/VictorIgorDev/ClientRegistrationSystem)
 
 O Projeto 2 é um aplicativo console desenvolvido em C# e .NET, que oferece funcionalidades de cadastro de clientes. Uma das principais características é a integração com a API do ViaCEP para preencher automaticamente os campos de endereço com base no CEP fornecido. O projeto utiliza tecnologias como C#, .NET, SQL, Dapper e System.Data.SqlClient para gerenciar o armazenamento de dados no banco de dados SQL. Os clientes podem ser cadastrados de forma rápida e eficiente, garantindo uma experiência simplificada para o usuário.
 
